@@ -1,4 +1,4 @@
-# Customer Segmentation Project
+**Customer Segmentation Project**
 
 This project performs customer segmentation using unsupervised machine learning techniques, specifically KMeans clustering, on the **Mall Customers** dataset. The goal is to segment customers based on their behavior and demographics to support targeted marketing strategies.
 
